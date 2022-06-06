@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.h1-color {
+    color: #2A347C;
+}
+
+.bg-circe {
+    background-color: #4383A5;
+    color: #fff;
+}
+.bg-footer-circe{
+    background-color: #68A4C4;
+    color: #fff;
+}
+.check-ft {
+    color: #36B92F;
+}
