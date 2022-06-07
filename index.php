@@ -215,6 +215,16 @@
                     </tbody>
                 </table>
             </div>
+            <h2 class="h1-color">Te damos la bienvenida a las soluciones CIRCE</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="images/contacto.jpg" alt="foto_contacto" class="img-thumbnail">
+                </div>
+                <div class="col-md-6 text-center">
+                    <a href="#" class="w-100 btn btn-large btn-outline-primary my-2">Iniciar prueba</a>
+                    <a href="#" class="w-100 btn btn-large btn-circe-blue my-2">Contáctanos</a>
+                </div>
+            </div>
 
     </main>
     <footer class="footer mt-auto py-3 bg-footer-circe">
