@@ -143,7 +143,8 @@
                                 <li>Phone and email support</li>
                                 <li>Help center access</li>
                             </ul>
-                            <button type="button" class="w-100 btn btn-lg btn-primary">Contáctanos</button>
+                            <a href="contact.php" class="w-100 btn btn-lg btn-primary">Contáctanos</a>
+                            
                         </div>
                     </div>
                 </div>
